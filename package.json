@@ -1,0 +1,11 @@
+{
+  "name": "NewProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luminous453/meow.git",
+  "author": "<luminous> <<masha4russia@gmail.com>>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
